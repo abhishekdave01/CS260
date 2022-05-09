@@ -1,13 +1,6 @@
 //Abhishek Dave
 //4/25/2022
 
-// Sources:
-// 1) My code from hw2 and hw3
-// 2) Professor Boady's lecture slides on Queues, Linked Lists, and Hash Tables
-// 3) Professor Boady himself talked me through some issues and pointed out some bugs I had to fix.
-// 4) https://www.tutorialspoint.com/c_standard_library/c_function_isalpha.htm (To find a function that would
-// check if a character is an alphabet or not) 
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h> 
